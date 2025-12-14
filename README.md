@@ -2,8 +2,6 @@
 
 This repository contains course materials and a capstone-style analysis for the DATA1030 (Fall 2025) project: exploratory analysis, preprocessing, models, figures, and a short report describing the results.
 
-- Course / Canvas: https://canvas.brown.edu/courses/1099954
-
 This README explains how the project is organized and how to reproduce the environment used to develop the notebooks.
 
 **Repository layout**
