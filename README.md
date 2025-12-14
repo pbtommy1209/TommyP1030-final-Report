@@ -10,8 +10,8 @@ This README explains how the project is organized and how to reproduce the envir
 dataset: https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data
 .
 ├── data        # raw and preprocessed datasets (if small enough for GitHub)
-├── figures/      # generated figures, plots, and visual assets
-├── results/      # saved models, predictions, and evaluation output
+├── figure/      # generated figures, plots, and visual assets
+├── result/      # saved models, predictions, and evaluation output
 ├── report/       # final report (PDF) and supplementary documents
 ├── src/          # source code and notebooks (analysis & experiments)
 ├── .gitignore
