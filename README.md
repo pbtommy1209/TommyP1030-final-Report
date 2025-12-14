@@ -1,4 +1,3 @@
-# TommyP1030-final-Report
 # DATA1030 — Final project repository
 
 This repository contains course materials and a capstone-style analysis for the DATA1030 (Fall 2025) project: exploratory analysis, preprocessing, models, figures, and a short report describing the results.
